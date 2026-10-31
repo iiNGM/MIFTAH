@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "release_date": "2026-10-31",
+  "download_url": "https://github.com/iiNGM/MIFTAH/releases/latest/download/MIFTAH.exe",
+  "changelog": "• الإصدار الرسمي الأول (1.0.0) من برنامج (مفتاح - MIFTAH).\n• ربط نظام التحديث التلقائي الذكي بالمستودع الرسمي iiNGM/MIFTAH مع التحقق الأمني عبر SHA-256.",
+  "file_size_bytes": 48062778,
+  "sha256": "b15055ad5dcbcbc923e04ca16af83afff2be947bbddf63dddb9531928612d9b7",
+  "mandatory": false
+}
